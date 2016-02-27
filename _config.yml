@@ -1,0 +1,28 @@
+name: pospischill.net
+favicon: null
+layout_spectrum: 0.2043997016735375
+typography_spectrum: 0.9222594490274787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.44945610617287457
+  lightness: 0.013728895923122764
+  saturation: 0.7879734453745186
+  rhythmicContrast: 0.46756669436581433
+purpose: []
