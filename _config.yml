@@ -1,29 +1,41 @@
-name: pospischill.net
-favicon: null
-layout_spectrum: 0.37541
-typography_spectrum: 0.84681
 title: pospischill.net
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: pospischill.net
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.8125
+  saturation: 0.5
   brandColors:
     - '#e9e5dd'
     - '#423e36'
     - '#1b1a16'
     - '#d09d7d'
     - '#655b1f'
-  brandStrength: 0.8125
   lightness: 0.625
-  saturation: 0.5
   rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.84681
