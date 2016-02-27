@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-27T19:45:07.207Z'
-dateModified: '2016-02-27T19:44:47.989Z'
+description: hallo
+datePublished: '2016-02-27T20:04:48.932Z'
+dateModified: '2016-02-27T20:04:48.394Z'
 title: Der Pospischill
 author: []
 sourcePath: _posts/2016-02-27-der-pospischill.md
