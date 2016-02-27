@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-27T18:05:16.612Z'
-dateModified: '2016-02-27T18:05:10.852Z'
+datePublished: '2016-02-27T19:45:07.207Z'
+dateModified: '2016-02-27T19:44:47.989Z'
 title: Der Pospischill
 author: []
+sourcePath: _posts/2016-02-27-der-pospischill.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-27-der-pospischill.md
-published: true
 url: der-pospischill/index.html
 _type: Article
 
