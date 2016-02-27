@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[pospischill.net]]></title>
+        <description><![CDATA[pospischill.net]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 18:06:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Der Pospischill]]></title>
+            <description><![CDATA[<article><h1>Der Pospischill</h1><p>Der Pospischill ist da! :)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ded44ceb-5ad2-4e8e-81cb-660bc654420f.JPG"></article>]]></description>
+            <link>undefinedder-pospischill/index.html</link>
+            <guid isPermaLink="false">9504e2aa-c69b-4b95-8c8f-cb8192c05138</guid>
+            <pubDate>Sat, 27 Feb 2016 18:05:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
